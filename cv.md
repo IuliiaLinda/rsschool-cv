@@ -1,4 +1,5 @@
-#Iuliia Linda
+#Iuliia Linda#
+
 *lindaiuliia@gmail.com*
 
 I have excellent attention to detail and ability to work independently and in team. Ability to learn quickly and thoroughly while still being able to adapt quickly to change.
