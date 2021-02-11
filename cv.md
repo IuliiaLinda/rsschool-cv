@@ -4,7 +4,7 @@
 
 I have excellent attention to detail and ability to work independently and in team. Ability to learn quickly and thoroughly while still being able to adapt quickly to change.
 
-**skills**
+**Skills:**
 
 1. Test Automation: Selenium WebDriver, Java, TestNG, JUnit, Maven
 2. API Testing: REST API, Postman
